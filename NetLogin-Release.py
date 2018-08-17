@@ -4,8 +4,8 @@ import requests
 login_url = "http://202.204.48.82/"
 getv6_url = "http://cippv6.ustb.edu.cn/get_ip.php"
 
-Student_ID = 'xxxxxx'
-Student_Password = 'yyyyyy'
+Student_ID = 'xxxxxx' # Input your ID
+Student_Password = 'yyyyyy' # Input your net password
 
 post_header = \
 {
@@ -17,7 +17,7 @@ post_header = \
     'Referer': 'http://202.204.48.82/',
     'Content-Type': 'application/x-www-form-urlencoded',
     'Content-Length': '112',
-    'Cookie': 'myusername=xxxxxx; username=xxxxxx; pwd=yyyyyy', #Don't FORGET to change this line!
+    'Cookie': 'myusername=xxxxxx; username=xxxxxx; pwd=yyyyyy', #Don't FORGET to change this line with your ID and PW!
     'Connection': 'keep-alive',
     'Upgrade-Insecure-Requests': '1'
 }
