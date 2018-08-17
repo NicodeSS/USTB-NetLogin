@@ -1,2 +1,3 @@
-"# USTB_NetLogin" 
-"# USTB_NetLogin" 
+# 北京科技大学校园网自动登录脚本
+
+练手之作，目前尚未完善没有IPV6的情况
