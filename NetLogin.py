@@ -17,7 +17,7 @@ post_header = \
     'Referer': 'http://202.204.48.82/',
     'Content-Type': 'application/x-www-form-urlencoded',
     'Content-Length': '112',
-    'Cookie': 'myusername=xxxxxx; username=xxxxxx; pwd=yyyyyy', #Don't FORGET to change this line with your ID and PW!
+    'Cookie': 'myusername=xxxxxx; username=xxxxxx; pwd=yyyyyy', # Don't FORGET to change this line with your ID and PW!
     'Connection': 'keep-alive',
     'Upgrade-Insecure-Requests': '1'
 }
